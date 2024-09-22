@@ -1,0 +1,3 @@
+import szogtipus
+
+szogtipus.szogtipus()
